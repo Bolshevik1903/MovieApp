@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:movie_app2/screens/login.dart';
-import 'package:movie_app2/screens/popular_movies.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});

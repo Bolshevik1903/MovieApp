@@ -55,7 +55,6 @@ class _LoginState extends State<Login> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Login"),),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
